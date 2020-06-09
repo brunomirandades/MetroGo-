@@ -1,0 +1,14 @@
+INSERT INTO LINHAS(ID_LINHA, NOME_LINHA,ID_ADM)
+VALUES (1,'Azul',1),
+(2,'Verde',1),
+(3,'Vermelha',1),
+(4,'Amarela',4),
+(5,'Lilás',3),
+(7,'Rubi',2),
+(8,'Diamante',2),
+(9,'Esmeralda',2),
+(10,'Turquesa',2),
+(11,'Coral',2),
+(12,'Safira',2),
+(13,'Jade',2),
+(15,'Prata',1);
