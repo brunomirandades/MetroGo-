@@ -12,12 +12,12 @@ Python‘s Tkinter library was used to develop the GUI, and the database was dev
 ## Software Features
 It is possible for authorized people to change the header of the software, representing the station in which it is installed:
 
-
+![](change_header.gif)
 
 From the Departure and Arrival fields it is possible to set the corresponding stations and show the route the user needs to go through:
 
-
+![](search_route.gif)
 
 There is also a map of the full metro system available, so the user can locate stations within the system:
 
-
+![](map_viewer.gif)
