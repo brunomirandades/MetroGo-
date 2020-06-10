@@ -1,5 +1,6 @@
 # MetroGo!
 
+## Objetctive
 This is a project which intends to develop an interface to be available in the self-service terminals in the trainstations of São Paulo‘s metro system.
 
 Its intent is to make available for users of this metro system to find themselves through the stations, from their departure station to their arrival station.
@@ -8,8 +9,7 @@ It uses Python as the main programming language, alongside a SQL database to sto
 
 Python‘s Tkinter library was used to develop the GUI, and the database was developed using SQLite3.
 
-# Software Features
-
+## Software Features
 It is possible for authorized people to change the header of the software, representing the station in which it is installed:
 
 
