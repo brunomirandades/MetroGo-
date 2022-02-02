@@ -1,6 +1,6 @@
 # MetroGo!
 
-## Objetctive
+## Objective
 This is a project which intends to develop an interface to be available in the self-service terminals in the trainstations of São Paulo‘s metro system.
 
 Its intent is to make available for users of this metro system to find themselves through the stations, from their departure station to their arrival station.

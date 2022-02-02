@@ -8,10 +8,10 @@ main_window.geometry("900x600")
 
 # -----------Images-----------
 # change the path to the resources!!
-gear_icon = ImageTk.PhotoImage(Image.open("/Users/brunomiranda/Documents/metrogo/resources/gear_icon.png").resize((30, 30),Image.ANTIALIAS))
-search_icon = ImageTk.PhotoImage(Image.open("/Users/brunomiranda/Documents/metrogo/resources/search_icon.png").resize((30, 31),Image.ANTIALIAS))
-map_icon = ImageTk.PhotoImage(Image.open("/Users/brunomiranda/Documents/metrogo/resources/map_icon.png").resize((60, 61),Image.ANTIALIAS))
-metro_image_map = ImageTk.PhotoImage(Image.open("/Users/brunomiranda/Documents/metrogo/resources/mapa_metro_sp.png").resize((540, 485),Image.ANTIALIAS))
+gear_icon = ImageTk.PhotoImage(Image.open("./resources/gear_icon.png").resize((30, 30),Image.ANTIALIAS))
+search_icon = ImageTk.PhotoImage(Image.open("./resources/search_icon.png").resize((30, 31),Image.ANTIALIAS))
+map_icon = ImageTk.PhotoImage(Image.open("./resources/map_icon.png").resize((60, 61),Image.ANTIALIAS))
+metro_image_map = ImageTk.PhotoImage(Image.open("./resources/mapa_metro_sp.png").resize((540, 485),Image.ANTIALIAS))
 
 # --------Global Variables--------
 
